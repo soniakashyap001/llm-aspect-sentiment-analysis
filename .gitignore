@@ -1,0 +1,13 @@
+
+---
+
+## 📦 `.gitignore` (recommended)
+
+```gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+.env
+.DS_Store
+openai_key.txt
